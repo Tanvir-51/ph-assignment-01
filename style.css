@@ -1,0 +1,52 @@
+body {
+  font-family: "Zilla Slab", serif;
+  margin: 0;
+}
+
+.common-part {
+  display: flex;
+}
+
+.partition1 {
+  width: 35%;
+  padding-left: 5%;
+  margin-top: 5%;
+}
+.partition1 img {
+  width: 150%;
+}
+h1 {
+  font-size: 50px;
+  margin: 0;
+}
+.coral {
+  color: coral;
+}
+.click-button {
+  text-decoration: none;
+  background-image: linear-gradient(indianred, coral);
+  color: white;
+  font-weight: 700;
+  padding: 10px 25px;
+  border-radius: 15px;
+}
+
+.img-url {
+  background-image: url(images/shapes/Frame\ 56.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 100%;
+}
+
+.partition2 {
+  width: 35%;
+  padding-left: 12%;
+  margin-top: 5%;
+}
+.partition2 img {
+  width: 60%;
+}
+.img-url2 {
+  background-image: url(images/shapes/7.png);
+  background-size: 100%;
+}
