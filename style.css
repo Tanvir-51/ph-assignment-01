@@ -19,6 +19,9 @@ h1 {
   font-size: 50px;
   margin: 0;
 }
+h2 {
+  font-size: 40px;
+}
 .coral {
   color: coral;
 }
@@ -49,4 +52,44 @@ h1 {
 .img-url2 {
   background-image: url(images/shapes/7.png);
   background-size: 100%;
+}
+.gray {
+  color: gray;
+}
+
+.recipe-area {
+  padding-left: 5%;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.part-sizing {
+  width: 20%;
+  margin: 0 5%;
+  padding-left: 20px;
+  border-radius: 15px;
+  box-shadow: 5px 2px 7px 2px gray;
+}
+.img-sizing {
+  width: 90%;
+  height: 40%;
+  margin-top: 5%;
+}
+
+footer {
+  background: #000;
+  color: #ccc;
+  margin-top: 5%;
+  text-align: center;
+  padding: 10px 5px 30px;
+}
+
+.fd {
+  color: coral;
+}
+.net {
+  color: #aaa;
 }
