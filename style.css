@@ -84,7 +84,6 @@ h3 {
 .partition2 {
   width: 35%;
   padding-left: 12%;
-  /* margin-top: 10%; */
   text-align: justify;
 }
 .partition2 img {
@@ -159,7 +158,6 @@ h3 {
 footer {
   background: #0b0e17;
   color: #ccc;
-  /* text-align: center; */
   padding: 20px 0 60px;
   display: flex;
 }
@@ -200,10 +198,4 @@ footer {
 }
 .net {
   color: #aaa;
-}
-.copyright {
-  /* margin: 0;
-  bottom: 0; */
-  /* text-align: start; */
-  bottom: 0;
 }
