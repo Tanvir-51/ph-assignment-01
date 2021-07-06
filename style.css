@@ -19,11 +19,10 @@ body {
   font-size: 30px;
   margin-top: 2%;
   margin-bottom: 2%;
-  margin-left: 2%;
+  margin-left: 5%;
 }
 
 .nav-bar ul {
-  display: inline-block;
   list-style-type: none;
   text-align: end;
   margin: 0;
