@@ -10,14 +10,16 @@ body {
 /* navigation-bar part */
 
 .nav-bar {
-  /* background: #ff8c64; */
   background: #81cfe0;
+  overflow: hidden;
 }
+
 .nav-bar span {
-  text-align: start;
-  padding: 23%;
-  margin: 0;
+  display: inline-block;
   font-size: 30px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 2%;
 }
 
 .nav-bar ul {
@@ -26,6 +28,7 @@ body {
   text-align: end;
   margin: 0;
   padding: 0;
+  float: right;
 }
 .nav-bar ul li {
   display: inline-block;
